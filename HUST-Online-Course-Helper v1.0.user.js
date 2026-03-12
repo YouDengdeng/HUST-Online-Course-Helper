@@ -3,7 +3,7 @@
 // @namespace    https://github.com/YouDengdeng/HUST-Online-Course-Helper
 // @version      1.0
 // @description  16倍速 + 自动播放 + 视频结束1.5秒后点击正常下一节，
-// @author       超级灯灯子
+// @author       YouDengdeng
 // @license      MIT
 // @match        https://smartcourse.hust.edu.cn/mooc-smartcourse/mycourse/studentstudy*
 // @grant        none
