@@ -30,7 +30,7 @@
    
    方法二：在浏览器扩展栏目内点击 **Tampermonkey** 按钮，得到下图。在这个界面点击**添加新脚本**，将脚本的内容复制粘贴，并用`Ctrl+S`保存即可。
    
-   ![](C:\Users\Administrator\AppData\Roaming\marktext\images\2026-03-12-10-30-51-image.png)
+   ![](images/fig1.png)
 
 4. 打开网课界面，注意该界面的网址需要与脚本中的`@match `相同，默认为`https://smartcourse.hust.edu.cn/mooc-smartcourse/mycourse/studentstudy*`
 
@@ -46,11 +46,11 @@
 
 - 如何开启/关闭该脚本：在`@match`所指的页面下，在浏览器扩展栏目内点击 **Tampermonkey**按钮，可以看到该脚本已启用。点击滑块可以切换脚本的开/关状态，刷新页面后即启用/禁用。
   
-  ![](C:\Users\Administrator\AppData\Roaming\marktext\images\2026-03-12-10-39-07-image.png)
+  ![](images/fig2.png)
 
 - 如何编辑和配置该脚本：在浏览器扩展栏目内点击 **Tampermonkey** 按钮，点击**管理面板**，在里面找到该脚本，编辑后按`Ctrl+S`保存即可。
   
-  ![](C:\Users\Administrator\AppData\Roaming\marktext\images\2026-03-12-10-53-26-image.png)
+  ![](images/fig3.png)
 
 - 有答题任务点怎么办：脚本默认看完该页面视频就跳转到下一节。答题需要大家自己去做。
 
